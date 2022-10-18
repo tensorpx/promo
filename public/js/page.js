@@ -231,13 +231,6 @@ const CVU = [
         "alias" : "xenoxz31",
         "name" : "Gisela Vanina Gomez"
     }
-    ,
-    {
-        "id" : 2,
-        "cvu" : "0000003100077045162961",
-        "alias" : "cuis.hipo.aclare.mp",
-        "name" : "Carlos Andres Amarilla"
-    }
 ]
 
 function numberWithCommas(x) {
